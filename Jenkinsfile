@@ -5,6 +5,7 @@ pipeline {
       steps {
         echo 'hello from the trigger'
         echo 'Hello Again'
+	echo 'Hello from the trigger again'
       }
     }
 
